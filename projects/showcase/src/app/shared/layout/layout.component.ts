@@ -6,8 +6,7 @@ import { Component } from '@angular/core';
       <div>
         <div id="layout-left-custom-items"></div>
         <a mat-button routerLink="/">
-          <mat-icon svgIcon="ngx-mapbox-gl"></mat-icon>
-          AERODYNE
+        <img src="https://i.ibb.co/Kbw6m4P/logo.png" width="120" height="44">
         </a>
       </div>
       <div>
